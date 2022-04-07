@@ -13,12 +13,9 @@
 <a href="https://www.instagram.com/aaronhaddad_/">
   <img align="left" alt="akd's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<!-- <a href="https://www.youtube.com/channel/UCJ3giAOL-ycnqLDCA96AJag">
-  <img align="left" alt="akd's Youtube" width="100px" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" />
-</a> -->
-<!-- <a href="https://www.coursera.org/user/b64b50f1306c84937347735b9120e533">
+<a href="https://www.coursera.org/user/7d6bccbfe3f5d6757038594112fd23af">
   <img align="left" alt="kad's Coursera" width="100px" src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" />
-</a> -->
+</a>
 <a href="https://www.qwiklabs.com/public_profiles/e4a32e85-10e8-4f7d-9c0f-f825feeb91cd">
   <img align="left" alt="akd's Qwiklab" width="100px" src="https://img.shields.io/badge/Qwiklabs-F5CD0E?style=for-the-badge&logo=Qwiklabs&logoColor=black" />
 </a>
