@@ -14,6 +14,9 @@
 <a href="https://www.credly.com/users/aaronhaddad_/badges">
   <img align="left" alt="akd's hackerrank" width="100px" height="25px" src="https://img.shields.io/badge/Credly-005850?style=for-the-badge&logo=Credly&logoColor=white" />
 </a>
+<a href="https://www.datacamp.com/profile/aaronhaddad">
+  <img align="left" alt="akd's hackerrank" width="100px" height="25px" src="https://img.shields.io/badge/DataCamp-03ef62?style=for-the-badge&logo=DataCamp&logoColor=gray" />
+</a>
 <a href="https://www.hackerrank.com/aaronhaddad_">
   <img align="left" alt="akd's hackerrank" width="100px" height="25px" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black" />
 </a>
