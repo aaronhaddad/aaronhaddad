@@ -9,3 +9,6 @@
 <img align="right" src="Untitled design.gif" width="20%">
 
 Oh hello! My name is Aaron and I am a computer science student, a
+
+
+![snake svg](https://github.com/adityamangal1/adityamangal1/blob/output/github-contribution-grid-snake.svg)
