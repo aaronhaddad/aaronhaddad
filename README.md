@@ -1,10 +1,32 @@
 # Hi there! I'm Aaron 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/haddadaaron-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haddadaaron/)](https://www.linkedin.com/in/haddadaaron/)
-[![Website Badge](https://img.shields.io/badge/aaronhaddad.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://aaronhaddad.me)](https://aaronhaddad.me)
-[![Twitter badge](https://img.shields.io/badge/aaronhaddad__-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/aaronhaddad_)](https://twitter.com/aaronhaddad_)
-[![Instagram badge](https://img.shields.io/badge/aaronhaddad__-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/aaronhaddad_/)](https://instagram.com/aaronhaddad_)
-[![Gmail badge](https://img.shields.io/badge/aaron.haddad@etudiant--isi.utm.tn-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:aaron.haddad@etudiant-isi.utm.tn)](mailto:aaron.haddad@etudiant-isi.utm.tn)
+<br><br>
+<a href="https://twitter.com/aaronhaddad_">
+  <img align="left" alt="akd's Twitter" width="100px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/haddadaaron/">
+  <img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/aaronhaddad">
+  <img align="left" alt="akd's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/aaronhaddad_/">
+  <img align="left" alt="akd's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<!-- <a href="https://www.youtube.com/channel/UCJ3giAOL-ycnqLDCA96AJag">
+  <img align="left" alt="akd's Youtube" width="100px" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" />
+</a> -->
+<!-- <a href="https://www.coursera.org/user/b64b50f1306c84937347735b9120e533">
+  <img align="left" alt="kad's Coursera" width="100px" src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" />
+</a> -->
+<a href="https://www.qwiklabs.com/public_profiles/e4a32e85-10e8-4f7d-9c0f-f825feeb91cd">
+  <img align="left" alt="akd's Qwiklab" width="100px" src="https://img.shields.io/badge/Qwiklabs-F5CD0E?style=for-the-badge&logo=Qwiklabs&logoColor=black" />
+</a>
+<br><br>
+<a href="https://www.hackerrank.com/aaronhaddad_">
+  <img align="left" alt="akd's hackerrank" width="100px" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black" />
+</a>
+<br><br>
 
 <img align="right" src="Untitled design.gif" width="20%">
 
