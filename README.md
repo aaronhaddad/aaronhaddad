@@ -8,7 +8,7 @@
 <a href="https://www.qwiklabs.com/public_profiles/e4a32e85-10e8-4f7d-9c0f-f825feeb91cd">
   <img align="left" alt="Aaron's Qwiklab" width="100px" height="25px" src="https://img.shields.io/badge/Qwiklabs-F5CD0E?style=for-the-badge&logo=Qwiklabs&logoColor=black" />
 </a>
-  <a href="https://www.coursera.org/user/7d6bccbfe3f5d6757038594112fd23af">
+<a href="https://www.coursera.org/user/7d6bccbfe3f5d6757038594112fd23af">
   <img align="left" alt="Aaron's Coursera" width="100px" height="25px" src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" />
 </a>
 <a href="https://www.credly.com/users/aaronhaddad_/badges">
