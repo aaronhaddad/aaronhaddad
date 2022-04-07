@@ -1,6 +1,4 @@
 # Hi there! I'm Aaron 👋
-
-<br><br>
 <a href="https://twitter.com/aaronhaddad_">
   <img align="left" alt="akd's Twitter" width="100px" height="25px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
 </a>
