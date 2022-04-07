@@ -22,7 +22,6 @@
 <a href="https://www.qwiklabs.com/public_profiles/e4a32e85-10e8-4f7d-9c0f-f825feeb91cd">
   <img align="left" alt="akd's Qwiklab" width="100px" src="https://img.shields.io/badge/Qwiklabs-F5CD0E?style=for-the-badge&logo=Qwiklabs&logoColor=black" />
 </a>
-<br><br>
 <a href="https://www.hackerrank.com/aaronhaddad_">
   <img align="left" alt="akd's hackerrank" width="100px" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black" />
 </a>
