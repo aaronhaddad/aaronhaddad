@@ -8,4 +8,4 @@
 
 <img align="right" src="Untitled design.gif" width="20%">
 
-Welcome to my profile! I'm a computer science student 
+Oh hello! My name is Aaron and I am a computer science student, a
