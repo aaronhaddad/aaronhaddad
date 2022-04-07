@@ -11,6 +11,9 @@
   <a href="https://www.coursera.org/user/7d6bccbfe3f5d6757038594112fd23af">
   <img align="left" alt="kad's Coursera" width="100px" height="25px" src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" />
 </a>
+<a href="https://www.credly.com/users/aaronhaddad_/badges">
+  <img align="left" alt="akd's hackerrank" width="100px" height="25px" src="https://img.shields.io/badge/Credly-005850?style=for-the-badge&logo=Credly&logoColor=black" />
+</a>
 <a href="https://www.hackerrank.com/aaronhaddad_">
   <img align="left" alt="akd's hackerrank" width="100px" height="25px" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black" />
 </a>
