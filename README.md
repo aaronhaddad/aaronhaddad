@@ -29,9 +29,8 @@
 </a>
 <br><br>
 
-<img align="left" src="Untitled%20design.gif.gif" alt="Aaron Haddad" title="I love coffee ❤️☕" hspace="20"/>
-![Aaron Haddad]([http://url/to/image.jpg](https://github.com/aaronhaddad/aaronhaddad/blob/main/Untitled%20design.gif))
-
+<!-- (url)(url)](url)<img align="left" src="Untitled%20design.gif.gif" alt="Aaron Haddad" title="I love coffee ❤️☕" hspace="20"/> -->
+![aaron gif](https://github.com/aaronhaddad/aaronhaddad/blob/main/Untitled%20design.gif)
 
 Hello there, 
 My name is Aaron, I am a computer science student from Tunisia!
