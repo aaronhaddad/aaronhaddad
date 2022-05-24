@@ -30,6 +30,7 @@
 <br><br>
 
 <!-- (url)(url)](url)<img align="left" src="Untitled%20design.gif.gif" alt="Aaron Haddad" title="I love coffee ❤️☕" hspace="20"/> -->
+<img align="left" alt="Aaron's Instagram" width="10%" height="10%" src="https://github.com/aaronhaddad/aaronhaddad/blob/main/Untitled%20design.gif" alt="Aaron Haddad" title="I love coffee ❤️☕" />
 ![aaron gif](https://github.com/aaronhaddad/aaronhaddad/blob/main/Untitled%20design.gif)
 
 Hello there, 
