@@ -29,7 +29,7 @@
 </a>
 <br><br>
 
-<img align="left" src="Untitled design.gif.gif" alt="Aaron Haddad" title="I love coffee ❤️☕" hspace="20"/>
+<img align="left" src="Untitled%20design.gif.gif" alt="Aaron Haddad" title="I love coffee ❤️☕" hspace="20"/>
 
 Hello there, 
 My name is Aaron, I am a computer science student from Tunisia!
