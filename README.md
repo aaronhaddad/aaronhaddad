@@ -29,6 +29,8 @@
 </a>
 <br><br>
 
+![](aaron_coffee.gif)
+
 Hello there, 
 My name is Aaron, I am a computer science student from Tunisia!
 
