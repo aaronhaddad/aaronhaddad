@@ -15,13 +15,13 @@
 [![wakatime](https://wakatime.com/badge/user/cc555eb6-fa61-49ef-b59c-a197f1e2d00e.svg)](https://wakatime.com/@cc555eb6-fa61-49ef-b59c-a197f1e2d00e)
 <br />
 <br />
-A software engineering intern at Save Your Wardrobe, I'm a full-stack development ninja with a particular talent for wrangling backend systems. I am passionate about machine learning and love sharing my knowledge by teaching Python at Gomycode. And let's not forget – My team and I won Google's prize at Orange Summer Challenge 2022 (no big deal, just saying) after interning for 4 months at Orange Tunisia.
+A software engineer at Save Your Wardrobe, I'm a full-stack development ninja with a particular talent for wrangling backend systems. I am passionate about machine learning and love sharing my knowledge by teaching Python at Gomycode. And let's not forget – My team and I won Google's prize at Orange Summer Challenge 2022 (no big deal, just saying) after interning for 4 months at Orange Tunisia.
 
-I'm a believer in going the extra mile – not just because it's the right thing to do, but also because it's where the magic happens. As a creative problem solver, I'm never satisfied with the status quo. I'm always looking for ways to push the envelope, find new solutions to old problems, and make the world a better place – one line of code at a time.
+I believe in going the extra mile – not just because it's the right thing to do, but also because it's where the magic happens. As a creative problem solver, I'm never satisfied with the status quo. I'm always looking for ways to push the envelope, find new solutions to old problems, and make the world a better place – one line of code at a time.
 
-And when I'm not saving the world (or at least trying to), you can find me indulging my passion for all things automotive. I'm a huge Formula One fan and love watching races whenever I can. And speaking of movement – did I mention that I'm also a salsa dancer? Yes, I am a salsa-dancing software engineer. I love the challenge of learning new styles and techniques, and I'm always up for a good dance-off (or code-off, for that matter).
+And when I'm not saving the world (or at least trying to), you can find me indulging my passion for all things automotive. I'm a huge Formula One fan and love watching races whenever possible. And speaking of movement – did I mention that I am also a salsa dancer? Yes, I am a salsa-dancing software engineer. I love the challenge of learning new styles and techniques, and I'm always up for a good dance-off (or code-off, for that matter).
 
-I ❤️ Open Source, learning new things and listening to other people!
+I ❤️ Open Source, learning new things, and listening to other people!
 
 My last article:<br />
 ![Aaron's blog](https://github-read-medium.vercel.app/latest?username=aaronhaddad&limit=6&theme=dark)
