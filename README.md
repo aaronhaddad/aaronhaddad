@@ -23,5 +23,5 @@ And when I'm not saving the world (or at least trying to), you can find me indul
 
 I ❤️ Open Source, learning new things, and listening to other people!
 
-My last article:<br />
-![Aaron's blog](https://github-read-medium.vercel.app/latest?username=aaronhaddad&limit=6&theme=dark)
+My last article:<br /><br />
+[![Aaron Haddad's Medium](https://github-readme-medium.vercel.app/?username=aaronhaddad)](https://medium.com/@aaronhaddad)
