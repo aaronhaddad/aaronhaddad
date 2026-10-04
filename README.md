@@ -1,5 +1,5 @@
 <h3 align="center">
-  Yoo! I am Aaron <img src="./aaron.png" alt="Aaron pointing at you" height="48" /> <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/gifs/wave.gif" alt="Aaron says hi!" width="20" height="20" />
+  Yoo! I am Aaron <img src="./aaron.png" alt="Aaron pointing at you" height="20" /> <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/gifs/wave.gif" alt="Aaron says hi!" width="20" height="20" />
 </h3>
 
 Remember that kid who turned the classroom into a tech lab? That's me! <img src="https://www.giantfreakinrobot.com/wp-content/uploads/2023/05/leonardo-dicaprio-point.png" style="height: 15px;" /> Same energy, bigger playground: I'm now a full-stack engineer in Berlin who likes owning things end-to-end.
