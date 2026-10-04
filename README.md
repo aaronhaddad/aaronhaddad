@@ -1,39 +1,34 @@
 <h3 align="center">
-  Yoo! I am Aaron <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/gifs/wave.gif" alt="Aaron says hi!" width="20" height="20" />
+  Yoo! I am Aaron <img src="./aaron.png" alt="Aaron pointing at you" height="48" /> <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/gifs/wave.gif" alt="Aaron says hi!" width="20" height="20" />
 </h3>
 
-Remember that kid who turned the classroom into a tech lab? That's me! <img src="https://www.giantfreakinrobot.com/wp-content/uploads/2023/05/leonardo-dicaprio-point.png" style="height: 15px;" /> Now transforming wild ideas into groundbreaking projects as a software engineer at [@root-global](https://github.com/root-global). From winning Google's innovation prize at Orange Summer Challenge 2022 to teaching Python at Gomycode and co-founding a tech startup at 20 years old, I'm all about pushing boundaries, creating innovative solutions, and sharing knowledge.
+Remember that kid who turned the classroom into a tech lab? That's me! <img src="https://www.giantfreakinrobot.com/wp-content/uploads/2023/05/leonardo-dicaprio-point.png" style="height: 15px;" /> Same energy, bigger playground: I'm now a full-stack engineer in Berlin who likes owning things end-to-end.
 
-I'm a believer in going the extra mile – not just because it's the right thing to do, but also because it's where the magic happens. As a creative problem solver, I'm never satisfied with the status quo. I'm always looking to push the envelope, find new solutions to the hardest problems, and make the world a better place – one line of code at a time.
+At [@root-global](https://github.com/root-global), I'm one of the early engineers behind the carbon calculator that 49 enterprise food & beverage companies use to measure and cut farm-level emissions. I live mostly in the backend, and contributed an agentic development setup with Cursor initially and now Claude, adopted by 7–8 engineers.
 
-When I'm not coding, you'll find me cheering for a Formula One race, dancing bachata or probably learning about how quantum computing works, exploring the mysteries of the universe, or diving into the latest tech advancements.
+Before Berlin, I experimented internally with fine-tuning LLaMA-3 at Save Your Wardrobe to enable booking aftercare services with natural language, a process I built with the team there, where we empowered some of the biggest and most prestigious fashion brands like Loro Piana to enhance their customer relationships and increase the lifespan of their garments; I taught Python to 60+ students, co-founded a software studio as CTO, and won Google's prize at the Orange Summer Challenge 2022 with my team (no big deal, just saying :p).
 
-I love engaging with people on [X@aaronhaddad_](https://x.com/aaronhaddad_) and [Linkedin@haddadaaron](https://www.linkedin.com/in/haddadaaron), writing articles is one of my secret passions. Check out some of my creations on [Medium@aaronhaddad](https://aaronhaddad.medium.com). Or read my latest article here:
+### 🔭 Currently
+I like going the extra mile, mostly because that's where the fun stuff happens. That's also why I love contributing to open source.
+- Cooking up **Finch** 🤫, an AI side project in fintech. More soon
+- Contributing to Apple's [MLX](https://github.com/ml-explore/mlx)
+- Learning German (langsam aber sicher)
 
-<p align="center">
-  <a href="https://medium.com/@aaronhaddad">
-    <img src="https://github-readme-medium.vercel.app/?username=aaronhaddad" />
-  </a>
-</p>
+<a href="https://wakatime.com/@cc555eb6-fa61-49ef-b59c-a197f1e2d00e">
+  <img src="https://wakatime.com/badge/user/cc555eb6-fa61-49ef-b59c-a197f1e2d00e.svg" alt="wakatime" />
+</a>
 
-<!--
-Feel like checking out my different profiles; Get to learn more about me as I tend to share updates frequently.
+### 🏁 Off the keyboard
+When I'm not shipping code, you'll find me at the gym, out on a run, or on a tennis court; showing up consistently is my thing, on and off the keyboard. The rest of the time, I'm watching Formula One, driving loud, unapologetic engines as fast as I can (or as fast as I dare, haha), whether on the Nürburgring or the Autobahn, or on a dance floor. Yes, I'm a bachata-dancing software engineer, and I'm always up for a dance-off (or a code-off, for that matter).
 
-<div align="center">
-  <a href="https://x.com/aaronhaddad_" target="_blank">
-    <img src="https://cdn.icon-icons.com/icons2/4029/PNG/512/twitter_x_new_logo_square_x_icon_256075.png" alt="Aaron Haddad on X" style="height: 60px; background-color: #000000; border-radius: 10px;" />
-  </a>
-  <a href="https://www.linkedin.com/in/haddadaaron" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Aaron Haddad on LinkedIn" style="height: 60px; background-color: #0077B5; border-radius: 10px;" />
-  </a>
-  <a href="https://aaronhaddad.medium.com" target="_blank">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/free-medium-47-433328.png" alt="Aaron Haddad on Medium" style="height: 60px; background-color: #000000; border-radius: 10px;" />
-  </a>
-</div>
--->
+### ✍️ Latest article
+Writing articles is one of my secret passions. Here's my latest on [Medium](https://aaronhaddad.medium.com):
 
-<p align="right">
-  <a href="https://wakatime.com/@cc555eb6-fa61-49ef-b59c-a197f1e2d00e">
-    <img src="https://wakatime.com/badge/user/cc555eb6-fa61-49ef-b59c-a197f1e2d00e.svg" alt="wakatime" />
-  </a>
-</p>
+<a href="https://medium.com/@aaronhaddad">
+  <img src="https://github-readme-medium.vercel.app/?username=aaronhaddad" />
+</a>
+
+### 💬 Let's talk
+<a href="https://www.linkedin.com/in/haddadaaron"><img src="https://img.shields.io/badge/LinkedIn-haddadaaron-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://x.com/aaronhaddad_"><img src="https://img.shields.io/badge/X-aaronhaddad__-000000?style=flat&logo=x&logoColor=white" alt="X" /></a>
+<a href="https://aaronhaddad.medium.com"><img src="https://img.shields.io/badge/Medium-aaronhaddad-000000?style=flat&logo=medium&logoColor=white" alt="Medium" /></a>
